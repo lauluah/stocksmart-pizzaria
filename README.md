@@ -18,7 +18,7 @@
 
 API REST completa para controlar estoque de ingredientes, receitas de pizzas, vendas e movimentações
 
-</div>
+</div align="center">
 
 ---
 
