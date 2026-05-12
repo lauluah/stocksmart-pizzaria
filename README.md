@@ -363,6 +363,5 @@ A API retorna erros padronizados em JSON:
 
 <div align="center">
 
-**Feito com ☕ Java e 🍕 muita pizza**
 
 </div>
